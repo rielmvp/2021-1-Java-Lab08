@@ -1,1 +1,2 @@
-This repository is a Lab 08 repository for Java. This repository also includes the source code from Java HW2.
+This repository is a Lab 08 repository for Java. This repository also includes the source code from Java HW2. 
+Java Lab08 consists of implementing a Java project using tools such as IDE, build tool, and many more.
